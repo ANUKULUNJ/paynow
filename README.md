@@ -27,8 +27,8 @@
 
 1. **Clone the Repository**:
     ```bash
-    git clone https://github.com/yourusername/paynow.git
-    cd paynow
+    git clone [https://github.com/ANUKULUNJ/paynow.git](https://github.com/ANUKULUNJ/paynow.git)
+
     ```
 
 2. **Install Dependencies**:
